@@ -235,6 +235,4 @@
 
 </body>  
 </html>  
-</content>  
-</create_file>  make to me easy link to open in chrom
-
+</content/>
